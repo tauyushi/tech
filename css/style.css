@@ -1,0 +1,113 @@
+﻿/* CSS レイアウト */
+#masthead {
+}
+#top_nav {
+}
+#page_content {
+}
+#footer {
+	background-color: #333333;
+}
+
+#report_metadata, #policy_published, .d_record {
+	width: 100%;
+}
+
+/* override bootstrap*/
+.navbar-inverse {
+	background-color: #333333;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+    color: #fff;
+    background-color: #777777;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #777777;
+    border-color: #666666;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #444444;
+    border-color: #333333;
+}
+
+/* override default*/
+* {
+	font-family: "メイリオ",sans-serif;
+}
+
+a {
+	color: #220000;
+}
+
+/* base */
+.top_title {
+	font-size: 80%;
+}
+
+.l-borderless {
+	font-size: large;
+	border-style: none;
+}
+
+.info {
+	font-size: small;
+}
+
+.help {
+	font-size: x-small;
+	color: #AAAAAA;
+}
+
+.copyright {
+	color: #999999;
+}
+
+.example {
+	font-size: x-small;
+}
+
+.d_textarea {
+	height: 100px;
+}
+
+.d_record {
+	width: 70%;
+}
+
+.m_donut {
+	float: left;
+	height: 200px;
+	width: 200px;
+}
+
+.cache {
+	color: #333333;
+}
+
+.pattarn_midasi {
+	background-color: #999999;
+	color: #EEEEEE;
+}
+
+.netword_addr {
+	color: blue;
+}
+
+.host_addr {
+	color: red;
+}
+
+/*
+table {
+	border-collapse: collapse;
+}
+td {
+	border: solid 1px;
+	padding: 0.5em;
+}
+*/
