@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Input your ID and Password."
-AuthUserFile /home/st152655/crowded-city.com/public_html/tech.crowded-city.com/var/.htpasswd
-require valid-user
