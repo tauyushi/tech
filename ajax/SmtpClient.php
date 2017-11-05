@@ -14,7 +14,7 @@ function alert($msg) {
 	echo '<script type="text/javascript">';
 	echo 'alert("'.$msg.'");';
 	echo '</script>';
-	echo '<meta http-equiv="refresh" content="0;URL=http://utility.crowded-city.com/view/smtp_client.php">';
+	echo '<meta http-equiv="refresh" content="0;URL=http://tech.crowded-city.com/view/smtp_client.php">';
 }
 
 $validate = new Validate();
@@ -47,5 +47,5 @@ catch(Exception $e) {
     alert($e->getMessage());
 	exit;
 }
-echo '<meta http-equiv="refresh" content="0;URL=http://utility.crowded-city.com/view/smtp_client_finish.php">';
+echo '<meta http-equiv="refresh" content="0;URL=http://tech.crowded-city.com/view/smtp_client_finish.php">';
 ?>
