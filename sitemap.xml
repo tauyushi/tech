@@ -1,43 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
  <url>
-  <loc>http://tech.crowded-city.com</loc>
+  <loc>http://cloud-city.info</loc>
   <priority>0.5</priority>
  </url>  
  <url>
-  <loc>http://tech.crowded-city.com/view/smtp_client.php</loc>
+  <loc>http://cloud-city.info/view/smtp_client.php</loc>
   <priority>0.5</priority>
  </url>  
  <url>
-  <loc>http://tech.crowded-city.com/view/spf.php</loc>
+  <loc>http://cloud-city.info/view/spf.php</loc>
   <priority>0.5</priority>
  </url>  
  <url>
-  <loc>http://tech.crowded-city.com/view/reguler.php</loc>
+  <loc>http://cloud-city.info/view/reguler.php</loc>
   <priority>0.5</priority>
  </url>  
  <url>
-  <loc>http://tech.crowded-city.com/view/port.php</loc>
+  <loc>http://cloud-city.info/view/port.php</loc>
   <priority>0.5</priority>
  </url>  
  <url>
-  <loc>http://tech.crowded-city.com/view/network_addr.php</loc>
+  <loc>http://cloud-city.info/view/network_addr.php</loc>
   <priority>0.5</priority>
  </url>  
  <url>
-  <loc>http://tech.crowded-city.com/view/global_ip.php</loc>
+  <loc>http://cloud-city.info/view/global_ip.php</loc>
   <priority>0.5</priority>
  </url>  
  <url>
-  <loc>http://tech.crowded-city.com/view/check_dns.php</loc>
+  <loc>http://cloud-city.info/view/check_dns.php</loc>
   <priority>0.5</priority>
  </url>  
  <url>
-  <loc>http://tech.crowded-city.com/view/bit_operation.php</loc>
+  <loc>http://cloud-city.info/view/bit_operation.php</loc>
   <priority>0.5</priority>
  </url>  
  <url>
-  <loc>http://tech.crowded-city.com/view/base64.php</loc>
+  <loc>http://cloud-city.info/view/base64.php</loc>
+  <priority>0.5</priority>
+ </url>  
+ <url>
+  <loc>http://cloud-city.info/view/dmarc_description.php</loc>
+  <priority>0.5</priority>
+ </url>  
+ <url>
+  <loc>http://cloud-city.info/view/create_record.php</loc>
+  <priority>0.5</priority>
+ </url>  
+ <url>
+  <loc>http://cloud-city.info/view/check_dmarc_dns.php</loc>
+  <priority>0.5</priority>
+ </url>  
+ <url>
+  <loc>http://cloud-city.info/view/report_parser.php</loc>
   <priority>0.5</priority>
  </url>  
 </urlset>
